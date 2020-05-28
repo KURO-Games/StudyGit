@@ -67,6 +67,12 @@ GitHubにリポジトリを作った時から存在している’master’ブ�
 
 
 筆者はMac派なのでMacからご説明します。
+まずは、アカウントの認証を行います。
+環境設定>アカウント
+![環境設定](https://github.com/KURO-Games/StudyGit/blob/master/Original/00.png)  
+![アカウント](https://github.com/KURO-Games/StudyGit/blob/master/Original/01.png)  
+
+
 
 *****
 以下書きかけです。
