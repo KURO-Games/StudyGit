@@ -92,7 +92,19 @@ GitHubにリポジトリを作った時から存在している’master’ブ�
 ![Branch2](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/05.png)
 下記のように表示されればブランチの作成は終了です。  
 ![Branch3](https://github.com/KURO-Games/StudyGit/blob/master/pic/PS/06-01.png )  
-
+### コミット、プッシュする
+さて、これ、テキストベースで書き込んでいるので、GitHub上でどのように写っている確認したいので、GitHub上に一度上げてみようとおもいます。  
+  
+  左上にあるコミットボタンを押します  
+  ![Commit1](https://github.com/KURO-Games/StudyGit/blob/master/pic/PS/06-02.png )
+このような画面が出てきたと思います。  
+では、変更を加えるファイル(今回はREADME.md)の横にあるチェックボタンを押します。
+ ![Commit2](https://github.com/KURO-Games/StudyGit/blob/master/pic/PS/07-01.png )
+ 上のステージングに移動したら、コメントをつけて、コミットします。
+ ![Commit3](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/09.png)  
+ これにてコミットは終了です。
+ 前の画像で、’コミットをただちにプッシュする’にチェックを入れてなかった場合はここの画像でプッシュボタンを押します。
+  ![Commit4](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/10.png)  
 
 
 *****
