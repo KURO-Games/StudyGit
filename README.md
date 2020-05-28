@@ -102,13 +102,33 @@ GitHubにリポジトリを作った時から存在している’master’ブ�
  ![Commit2](https://github.com/KURO-Games/StudyGit/blob/master/pic/PS/07-01.png )
  上のステージングに移動したら、コメントをつけて、コミットします。
  ![Commit3](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/09.png)  
- これにてコミットは終了です。
+ これにてコミットは終了です。  
  前の画像で、’コミットをただちにプッシュする’にチェックを入れてなかった場合はここの画像でプッシュボタンを押します。
   ![Commit4](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/10.png)  
 
+### マージする
+さて、masterブランチにwritingブランチをマージしていこうと思います。  
+実は、左側のブランチ名をクリックするとそのブランチに移動できます。  
+  
+  では、masterブランチに移動します。
+  移動すると下記のようにmasterブランチの横にマークがつきます。  
+    移動が完了したら、マージボタンを押します。
+ ![Marge1](https://github.com/KURO-Games/StudyGit/blob/master/pic/PS/11-01.png )
+ ではWritingブランチの最新である’SourceTree書きかけ’を選択します。  
+ そしてそのままOKを押します。  
+  ![Marge2](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/12.png)  
+  SourceTree上では'origin/ブランチ名'がリモートリポジトリ名で’ブランチ名’のみの場合、ローカルリポジトリになります。  
+  下記の画像を見ると、’master’ブランチの横に”1コミット先行”と書かれているので、ローカルリポジトリはすでに’SourceTree書きかけ’にいる事がわかります。  
+  ではPushを押して、リモートリポジトリも’SourceTree書きかけ’にしようと思います。  
+![Marge3](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/13.png)  
+![Marge4](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/14.png)
+下記の画像のように’master’ブランチ'origin/master'ブランチ共に同じ場所にある場合、リモート側と同じ状態になりました。  
+![Marge5](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/15.png)
 
-*****
-以下書きかけです。
+  
+  
+ 
+
 
 
  
