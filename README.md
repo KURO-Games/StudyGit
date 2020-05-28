@@ -114,7 +114,7 @@ GitHubにリポジトリを作った時から存在している’master’ブ�
   移動すると下記のようにmasterブランチの横にマークがつきます。  
     移動が完了したら、マージボタンを押します。
  ![Marge1](https://github.com/KURO-Games/StudyGit/blob/master/pic/PS/11-01.png )
- ではWritingブランチの最新である’SourceTree書きかけ’を選択します。  
+ Writingブランチの最新である’SourceTree書きかけ’を選択します。  
  そしてそのままOKを押します。  
   ![Marge2](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/12.png)  
   SourceTree上では'origin/ブランチ名'がリモートリポジトリ名で’ブランチ名’のみの場合、ローカルリポジトリになります。  
