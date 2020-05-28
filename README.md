@@ -84,6 +84,14 @@ GitHubにリポジトリを作った時から存在している’master’ブ�
 ![SourceTreeURL](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/03.png)
 これでクローン作業は終了です。  
 ![SourceTreeURL](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/04.png)
+### ブランチを切る
+筆者、ブランチを切り忘れたので、このタイミングで書きかけ用のブランチを作りたいと思います。  
+まず、オレンジ枠のブランチボタンを押します。
+![Branch1](https://github.com/KURO-Games/StudyGit/blob/master/pic/PS/04-01.png )  
+このような画面が出てきたら、名前を書いて、ブランチを作成のボタンを押して作ります。  
+![Branch2](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/05.png)
+下記のように表示されればブランチの作成は終了です。  
+![Branch3](https://github.com/KURO-Games/StudyGit/blob/master/pic/PS/06-01.png )  
 
 
 
