@@ -1,5 +1,5 @@
 # StudyGit
-さて、初心者用にGitの使い方とGithub、SourceTreeの使い方を紹介します。
+さて、初心者用にGitの使い方とSourceTreeの使い方を紹介します。
 ## GitとGitHubの違い
 さて、まずは勘違いしやすい所からご説明します。  
 **GitとGithubは全くの別物です。**  
@@ -59,10 +59,14 @@ GitHubにリポジトリを作った時から存在している’master’ブ�
 それ以外の操作は、解決するまで使えません。  
 よく、’コンフリ’と呼ばれています。
 
-## GitHubの使い方
 
 ## SourceTreeの使い方
+まずはソースツリーをダウンロード、インストールします。
+インストール作業は省略します。
+[SourceTree](https://www.sourcetreeapp.com)
 
+
+筆者はMac派なのでMacからご説明します。
 
 *****
 以下書きかけです。
