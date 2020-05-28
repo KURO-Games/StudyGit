@@ -77,7 +77,13 @@ GitHubにリポジトリを作った時から存在している’master’ブ�
 ![アカウント](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/01.png)  
 
 ### リポジトリのクローン
-まず、GitHubに行って、
+まず、GitHubに行って、Clone or Downloadをクリック、画像のオレンジ色のボタンを押して、URLをコピーします。  
+![GithubURL](https://github.com/KURO-Games/StudyGit/blob/master/pic/PS/02-01.png)  
+
+今度はSourceTreeに移動して、新規をクリック、ソースURLに先程のURLをペースト、クローンボタンを押します。  
+![SourceTreeURL](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/03.png)
+これでクローン作業は終了です。  
+![SourceTreeURL](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/04.png)
 
 
 
