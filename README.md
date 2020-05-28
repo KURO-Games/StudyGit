@@ -124,12 +124,9 @@ GitHubにリポジトリを作った時から存在している’master’ブ�
 ![Marge4](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/14.png)
 下記の画像のように’master’ブランチ'origin/master'ブランチ共に同じ場所にある場合、リモート側と同じ状態になりました。  
 ![Marge5](https://github.com/KURO-Games/StudyGit/blob/master/pic/Original/15.png)
-
   
   
- 
-
-
-
- 
+*****
+20/05/29(fri) 03:08現在  
+来週(20/06/05)までにWinfows版追加します。
 
