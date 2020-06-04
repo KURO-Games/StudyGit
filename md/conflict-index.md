@@ -6,6 +6,6 @@
 - Visual Studio 2019 for Mac
 ### 目次
 [ソースコードによるコンフリクト](https://github.com/KURO-Games/StudyGit/blob/master/md/Conflict/conflict-source-code.md)  
-[Unityのシーンによるコンフリクト](https://github.com/KURO-Games/StudyGit/blob/master/md/Conflict/conflict-unity-scene.md)
-
+[Unityのシーンによるコンフリクト前編](https://github.com/KURO-Games/StudyGit/blob/master/md/Conflict/conflict-unity-scene.md)
+[Unityのシーンによるコンフリクト後編](https://github.com/KURO-Games/StudyGit/blob/master/md/Conflict/conflict-unity-scene2.md)
 
