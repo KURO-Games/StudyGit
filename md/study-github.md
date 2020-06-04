@@ -9,3 +9,5 @@
 
 ### GitHubでのリポジトリーの作り方
 [GitHubでのリポジトリーの作り方](https://github.com/KURO-Games/StudyGit/blob/master/md/GitHub/new-repository.md) 
+### リポジトリのユーザー追加
+
